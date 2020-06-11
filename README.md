@@ -1,5 +1,5 @@
 
-Your task is to implement MCTS for playing Gomoku. The base game engine is from [here](https://github.com/HackerSir/PygameTutorials/tree/master/Lesson04/Gomoku).
+Implement MCTS for playing Gomoku. The base game engine is from [here](https://github.com/HackerSir/PygameTutorials/tree/master/Lesson04/Gomoku).
 
 
 
